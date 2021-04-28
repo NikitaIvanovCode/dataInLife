@@ -1,0 +1,11 @@
+.navbar-main {
+  font-size: 15px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid #c1c1c1;
+  margin-top: 7px;
+  cursor: pointer;
+}
+
+.navbar-main:hover {
+  color: rgb(75, 75, 75);
+}

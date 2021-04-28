@@ -1,0 +1,20 @@
+.cart-info {
+  position: sticky;
+  bottom: 0;
+  background-color: rgb(233, 233, 233);
+  width: 100%;
+}
+
+.cart-info-wrapp {
+  padding: 10px 10px 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-info__right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+}
